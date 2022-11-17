@@ -1,2 +1,3 @@
 # Toaster-Library
-This is a practice project for building a library
+How to user Toaster-Library
+
